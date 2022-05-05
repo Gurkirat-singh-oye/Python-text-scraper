@@ -1,7 +1,7 @@
 # Python-text-scraper
-This script scraps data (Text) from a given link and calculate some parameters from it. This script works for pages of a given website at a time.
+This script scraps data (Text) from a given link and calculate some parameters from it. This script works for pages of a given website.
 
-at the moment it is using "Input - Copy.csv" for the urls and the website right now is TimesOfIndia whose five articles are being scraped.
+at the moment it is using "Input - Copy.csv" for the urls and the website right now is TimesOfIndia whose five articles can scraped. (for sentimental analysis)
 
 ## Additional Packages Required:
 - Pandas
